@@ -1,4 +1,4 @@
-# Nature's Basket 🍏🍌🍇
+# Nature's Basket 🍉🍇🍋
 
 **Nature's Basket Flutter App** is a delightful application designed to showcase a variety of fruits and their details, allowing users to explore and learn more about each fruit.
 
